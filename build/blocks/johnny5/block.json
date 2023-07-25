@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "johnny5/johnny5",
+  "title": "Johnny 5",
+  "description": "Add AI-powered forms to your site with Johnny 5.",
+  "category": "common",
+  "attributes": {
+    "prompt": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    }
+  },
+  "editorScript": "file:./index.js",
+  "viewScript": "file:./view.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./index.php"
+}

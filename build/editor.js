@@ -1,0 +1,1 @@
+(()=>{"use strict";(0,window.wp.blocks.registerBlockStyle)("core/group",{name:"fancy-quote",label:"Fancy Quote"})})();
