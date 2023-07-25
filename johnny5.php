@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Johnny 5
- * Description: Forms, now supercharged with AI.
- * Author: Posty Studio
- * Author URI: https://posty.studio
+ * Description: Guided AI Prompts for WordPress. 
+ * Author: Sorta Rad
+ * Author URI: https://sortarad.io
  * License: GPL-3.0
  * Version: 1.0.0
  *
