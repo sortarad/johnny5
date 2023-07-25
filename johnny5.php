@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Johnny 5
+ * Plugin Name: Johnny5
  * Description: Guided AI Prompts for WordPress. 
  * Author: Sorta Rad
  * Author URI: https://sortarad.io
