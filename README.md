@@ -1,6 +1,6 @@
 # johnny5 by sorta rad
 
-We are all in on AI. It’s the most excting thing to hit the internet since animated gifs. The problem we see with most solutions is they focus on getting people access to the AI but giving the full freedom (or responsibility) in learning the best inputs to achieve the best outputs.
+We are all in on AI. It’s the most exciting thing to hit the internet since animated gifs. The problem we see with most solutions is they focus on getting people access to the AI but giving the full freedom (or responsibility) in learning the best inputs to achieve the best outputs.
 
 We think that’s unfair. Why not help the users generate their own content but in a way that maximizes their chance of success?
 
